@@ -2,5 +2,7 @@ package grails.intro
 
 class SveikiController {
 
-    def index() { }
+    def index() {
+    	render "Labdien"
+    }
 }
